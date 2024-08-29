@@ -1,0 +1,11 @@
+# .cpanel.yml
+app:
+  name: luc
+  root: /home/lucprime/luc
+  build:
+    commands:
+      - npm install
+      - npm run build
+  deploy:
+    commands:
+      - npm run deploy
