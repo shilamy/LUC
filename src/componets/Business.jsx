@@ -10,7 +10,7 @@ const Business = () => {
 
     
       <div className="relative z-10 w-full text-center mb-12">
-        <h2 className={styles.heading2}>
+        <h2 className={`${styles.heading2}`}>
           OUR SERVICES
         </h2>
         <p className={`${styles.paragraph} text-center mx-auto max-w-[600px]`}>
