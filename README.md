@@ -1,8 +1,10 @@
-# React + Vite
+# Company Profile Web Application. React.js & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React + Vite web application designed for business consultation services. The application offers a streamlined, efficient interface for clients to engage with consulting services, ensuring a seamless user experience
+The application leverages modern technologies, including Vite for fast development, 
+Tailwind CSS for utility-first styling, 
+and JavaScript for dynamic interactions. 
+Together, these tools provide an efficient user experience.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://ibb.co/DKWkrpF/lucprimelimited
